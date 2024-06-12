@@ -1,0 +1,14 @@
+.menu-bar {
+    height: 20px;
+    background-color: #FFF;
+    border-bottom: 1px solid #000;
+    display: flex;
+    align-items: center;
+    /*padding-left: 5px;*/
+    font-family: 'Chicago', sans-serif;
+    font-size: 14px;
+}
+
+.menu-bar span {
+    margin: 5px 10px;
+}
