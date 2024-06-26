@@ -1,10 +1,12 @@
 import MenuBar from './components/MenuBar';
-import './styles/App.css'
+import Desktop from "./components/Desktop";
+import './styles/App.css';
 
 function App() {
   return (
     <div className="App">
-      <MenuBar />
+        <MenuBar />
+        <Desktop />
     </div>
   );
 }
